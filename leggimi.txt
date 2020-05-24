@@ -1,0 +1,8 @@
+Mi fa piacere che tu abbia scaricato la mia chat in Batch.
+Se vuoi capire meglio il funzionamento guarda il video:
+https://youtu.be/NsdVup-OAD0
+
+TI RICORDO DI INSERIRE I TUOI DATI PER L'ACCESSO FTP DOVE TROVI:
+-FTP.NOMEHOST
+-USERNAME
+-PASSWORD
